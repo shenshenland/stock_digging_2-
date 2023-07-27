@@ -13,5 +13,5 @@ I also try other company as well(china_tele.py):
 I didn't believe at the first time, then I try to do with a random number, here is the result(random_number.py):
 
 As the I find that the sh.601111 doesn't follow the normal distribution, I begin to try other stock in America, given Tesla as an example(Tesla.py):
-![image](tesla_stock.png)
+![image]([tesla_stock.png](https://github.com/shenshenland/stock_digging_2-/blob/main/tesla_stock%20.png)https://github.com/shenshenland/stock_digging_2-/blob/main/tesla_stock%20.png)
 
