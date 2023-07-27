@@ -7,6 +7,8 @@ In recent studies, I have learned about stochastic processes and an interesting 
 2. When I learned the stochastic processes, Stock returns typically follow a log-normal distribution. So I try to collect stock return rate as in $\frac{open[time_t] - close[time_(t - 1)]}{open(time_t)}$ to get the rate of return by using excel.
 3. Then I put them into python to do test about the normal distribution (Kolmogorov-Smirnov test). The result is amazing(china_airplane.py):
 
+I also try other company as well(china_tele.py):
+
 
 I didn't believe at the first time, then I try to do with a random number, here is the result(random_number.py):
 
